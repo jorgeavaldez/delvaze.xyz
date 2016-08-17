@@ -1,0 +1,27 @@
+body {
+	padding: 0em;
+	margin: 0;
+	font-family: "Lucida Console", Monaco, monospace; 
+	background-color: #292429;
+	color: #F7208B;
+}
+
+#header_box, #link_box {
+	margin: 2em auto;
+	text-align: center;
+	vertical-align: middle;
+	display: block;
+}
+
+a {
+	display: block;
+	margin: 1em;
+}
+
+a:link {
+	color: #F37259;
+}
+
+a:visited, a:active, a:hover {
+	color: #82CDB9;
+}
